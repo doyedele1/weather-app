@@ -41,3 +41,7 @@ body {
 .degree-section h2 {
     font-size: 40px;
 }
+
+.temperature-description {
+    text-transform: capitalize;
+}
